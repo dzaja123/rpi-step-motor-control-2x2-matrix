@@ -64,7 +64,7 @@ GPIO.setup(Y_MAX_SENSOR, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
 def move_to_sensor(dir_pin: int, step_pin: int, target_sensor: int, direction: int) -> None:
     """
-    Move an motor in a specific direction until the target sensor is activated.
+    Move the motor in a specific direction until the target sensor is activated.
 
     Args:
         dir_pin (int): GPIO pin for direction control.

@@ -14,7 +14,7 @@ The platform captures images from four specific positions, returning the images 
 - **Raspberry Pi 5**
 - **2 x Nema 23 Stepper Motors**
 - **2 x TB660 Motor Drivers**
-- **4 x PNP Sensors** (Min/Max detection) in this project are NJK-5002C sensors.
+- **4 x NPN Sensors** (Min/Max detection) in this project are NJK-5002C sensors.
 - **Power Supply** for motors (9-42VDC) and sensors (5-30VDC).
 - **Camera** (USB or compatible with Raspberry Pi).
 

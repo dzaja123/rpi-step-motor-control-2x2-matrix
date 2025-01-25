@@ -128,4 +128,4 @@ The platform captures images from four specific positions, returning the images 
      ```
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENCE) file for details.
